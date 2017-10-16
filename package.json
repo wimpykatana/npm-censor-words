@@ -1,0 +1,14 @@
+{
+  "name": "sensoring",
+  "version": "1.0.0",
+  "description": "Censoring some word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "censoring"
+  ],
+  "author": "Wimpy Katana",
+  "license": "ISC"
+}
