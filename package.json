@@ -1,14 +1,17 @@
 {
-  "name": "sensoring",
+  "name": "sensoring-words",
   "version": "1.0.0",
   "description": "Censoring some word",
-  "main": "index.js",
+  "main": "censortext",
+"repository":{
+	"type": "git",
+	"url": "https://github.com/wimpykatana/npm-censor-words.git"
+},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "censoring"
+    "censoring","censor","words"
   ],
   "author": "Wimpy Katana",
-  "license": "ISC"
 }
