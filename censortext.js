@@ -1,4 +1,4 @@
-var censorWords = ["sad","bad","mad"];
+var censorWords = ["fuck","sex","dick"];
 var customCensorWords = [];
 
 function censor(instr){
